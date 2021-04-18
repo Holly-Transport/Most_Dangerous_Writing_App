@@ -1,4 +1,4 @@
-# Most Dangerous Writing App
+# The Most Dangerous Writing App
 
 Inspired by a Squibler application of the same name, this desktop app helps break writer's block by asking writers to quickly respond to prompts. 
 If writers are idle for 5 seconds, all of their work is deleted, but if they can continuously write for one minute, they can save their masterpiece.
